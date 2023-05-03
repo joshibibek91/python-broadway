@@ -17,3 +17,14 @@
 
 #git remote add origin <ssh link>
 #git push -u origin <branch_name>
+
+
+
+###Git Branching
+
+##It shows all the beanhes and highlights the current branch
+
+#git branch <branch_name> #Creates a  new branch
+# git heckout <branch_name> #jumps  (checkout) to the next branch
+
+#git checkout -b <branch_name> #creates a new branch and jumps to that branch
