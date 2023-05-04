@@ -5,3 +5,7 @@ print(a*b)
 print(a/b)
 ##### new changessss
 
+print(a==b)
+print(a!=b)
+
+
